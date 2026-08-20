@@ -70,8 +70,12 @@ Right now most of my time goes into Flutter, Python, and whatever the next lab t
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nonyeol&show_icons=true&theme=github_dark&hide_border=true&icon_color=C08B4F&title_color=C08B4F" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nonyeol&layout=compact&theme=github_dark&hide_border=true&title_color=C08B4F" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nonyeol&theme=github_dark" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nonyeol&theme=github_dark" alt="repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nonyeol&theme=github_dark" alt="most commit language" />
 </p>
 
 <p align="center">
