@@ -21,7 +21,7 @@ I'm studying Computer Engineering at **Rajamangala University of Technology Than
 I like building things end to end — a database behind it, a web page in front of it, and a mobile app on top.
 Right now most of my time goes into Flutter, Python, and whatever the next lab throws at me.
 
-ผมเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์ RMUTT — สนใจงานพัฒนาเว็บและแอปมือถือ กำลังเก็บสกิลไปเรื่อย ๆ ครับ
+ผมเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์ RMUTT — สนใจงานพัฒนา Web Application กำลังเก็บสกิลไปเรื่อย ๆ ครับ
 
 - 🎓 B.Eng. Computer Engineering, RMUTT
 - 📍 Bangkok, Thailand
